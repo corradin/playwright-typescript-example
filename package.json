@@ -1,0 +1,25 @@
+{
+  "name": "playwright-typescript-example",
+  "version": "1.0.0",
+  "description": "playwright-typescript-example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corradin/playwright-typescript-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corradin/playwright-typescript-example/issues"
+  },
+  "homepage": "https://github.com/corradin/playwright-typescript-example#readme",
+  "devDependencies": {
+    "playwright": "^1.16.3",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.4.4"
+  }
+}
